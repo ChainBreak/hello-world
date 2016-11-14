@@ -1,6 +1,13 @@
 namespace poo
 {
-class far
-{
-}
+  class far
+  {
+    public far()
+    {
+    }
+    
+    public void method()
+    {
+    }
+  }
 }
