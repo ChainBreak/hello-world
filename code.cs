@@ -2,7 +2,5 @@ namespace poo
 {
 class far
 {
-  
-
 }
 }
